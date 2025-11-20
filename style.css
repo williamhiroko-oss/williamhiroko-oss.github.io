@@ -1,0 +1,29 @@
+/* ----- GENERAL PAGE STYLE ----- */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* ----- TOP NAVIGATION BAR ----- */
+.navbar {
+    background-color: #0A4DA2; /* JW.org blue */
+    padding: 12px 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+/* ----- PAGE TITLE ----- */
+h1 {
+    font-size: 26px;
+    padding: 20px;
+}
